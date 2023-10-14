@@ -34,4 +34,3 @@
 6. 준비가 모두 완료되었습니다. nsaids_project.py 파일을 실행해주세요.
 <br>
 ※ E/S/D/Imp matching 시작 부분이 조금 오래걸릴 수 있습니다.
->>>>>>> 4876fa1c9671f0c8db8b6920f69691a2ad46fc9b
