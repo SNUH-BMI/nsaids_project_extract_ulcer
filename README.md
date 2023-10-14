@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# nsaids_project_extract_ulcer
-=======
 # nsaids_project_extract_ulcer
 
 ## CDM의 note table에 접근해 내시경기록지를 불러와 "ulcer"와 관련된 text를 추출하는 코드입니다.
